@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../images"
+		},
+		{
+			"path": "../img"
+		},
+		{
+			"path": "../js"
+		},
+		{
+			"path": "../lib"
+		},
+		{
+			"path": "../scss"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "css"
+	}
+}
